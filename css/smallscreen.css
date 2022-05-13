@@ -1,0 +1,70 @@
+@media only screen and (max-width: 480px) {
+    .background-image-holder {
+        margin-top: 100px;
+    }   
+    h3.type--uppercase {
+    margin-top: 100px;
+    }
+
+    a.btn.btn--icon.bg--instagram.type--uppercase {
+        margin-left: 48px;
+    }
+
+    p.lead {
+        text-align: center;
+    }
+
+    h2 {
+        text-align: center;
+    }
+
+    .social-list {
+        text-align: center;
+        margin-right: 100px;
+    }
+
+
+    a#contactusbutton {
+    display: none;
+
+    li.dropdown {
+        text-align:center;
+    }
+}
+
+    p.lead {
+    text-align: left;
+    padding: 24px 24px 24px 24px;
+}
+
+    h1 {
+    padding: 0px 24px;
+  }
+
+  ul.social-list.list-inline.list--hover {
+    margin-right: 0px;
+    margin-bottom: 0px;
+    text-align: -webkit-left;
+    padding: 0px 24px;
+}
+
+
+span.h1.inline-block {
+    padding: 0px 24px;
+}
+
+p.lead-body {
+    padding: 0px 24px;
+}
+
+a.btn.btn--primary.type--uppercase {
+    margin-left: 20px;
+}
+
+span.h3 {
+    padding: 0px 24px;
+}
+
+.background-image-holder {
+    margin: auto;
+}
