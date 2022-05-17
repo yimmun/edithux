@@ -7,4 +7,4 @@ Step 4: Input content  <br>
 Step 5: Keep iterate the page and update the content <br> 
 
 
- Your site is ready to be published at https://yimmun.github.io/edithux/
+ The portfolio site is ready to be published at https://yimmun.github.io/edithux/
