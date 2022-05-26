@@ -68,3 +68,13 @@ span.h3 {
 .background-image-holder {
     margin: auto;
 }
+
+.testimonial h5:nth-last-child(2) {
+    margin: 0;
+    padding: 0px 24px;
+
+span {
+    padding: 0px 24px;
+}
+
+    
