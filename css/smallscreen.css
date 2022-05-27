@@ -26,11 +26,12 @@
 
     a#contactusbutton {
     display: none;
+    }
 
     li.dropdown {
-        text-align:center;
+        text-align: center;
     }
-}
+
 
     p.lead {
     text-align: left;
@@ -72,9 +73,10 @@ span.h3 {
 .testimonial h5:nth-last-child(2) {
     margin: 0;
     padding: 0px 24px;
+}
 
 span {
     padding: 0px 24px;
 }
 
-    
+}
