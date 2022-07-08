@@ -82,4 +82,14 @@ span {
 img#memoji {
     margin: auto;
 }
+
+.switchable .row > div[class*='col-']:last-child:not(:only-child) {
+    margin: 24px;
+}
+
+ul.social-list.list-inline.list--hover {
+    text-align: center;
+    margin: 16px;
+}
+
 }
