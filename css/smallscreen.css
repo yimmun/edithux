@@ -92,4 +92,7 @@ ul.social-list.list-inline.list--hover {
     margin: 16px;
 }
 
+.feature-timeline h4 + p {
+    max-width: 22.28571429em;
+
 }
